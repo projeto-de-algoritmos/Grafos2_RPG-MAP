@@ -34,7 +34,6 @@ class Graph:
 
     def distances_list(self, start: str) -> dict:
         distances = {}
-        print(self.get_edges())
         for node, neighbours in self.get_edges():
             for neighbour, distance in neighbours:
                 distances[node] = (inf, None)
