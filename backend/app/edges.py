@@ -29,7 +29,8 @@ countries = {
     "Shavew": [
         ("Emerian",5),
         ("Ecal",2),
-        ("Raulheya",10)
+        ("Raulheya",20),
+        ("Curwich", 15)
     ],
     "Emerian":[
         ("Moshearia",5),
@@ -48,7 +49,8 @@ countries = {
         ("Storemon",3)
     ],
     "Curwich": [
-        ("Stormitia",1)
+        ("Stormitia",1),
+        ("Shavew", 15)
     ],
     "Storemon": [
         ("Stormitia",3),
