@@ -13,7 +13,21 @@
 O projeto mostra a menor rota entre um país e outro em um mapa de RPG, utilizando o algoritmo Dijkstra.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+![Tela Inicial](./assets/img_1.jpeg)
+</figcaption>
+    Imagem 1: Tela Inicial
+</figcaption>
+
+![Tela de Resultado](./assets/img_2.jpeg)
+</figcaption>
+    Imagem 2: Tela de Resultado 1
+</figcaption>
+
+![Tela de Resultado](./assets/img_3.jpeg)
+</figcaption>
+    Imagem 3: Tela de Resultado 2
+</figcaption>
 
 ## Instalação 
 **Linguagem**: python e javascript<br>
