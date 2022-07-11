@@ -12,6 +12,9 @@
 ## Sobre 
 O projeto mostra a menor rota entre um país e outro em um mapa de RPG, utilizando o algoritmo Dijkstra.
 
+## Apresentação
+A apresentação do projeto pode ser vista no seguinte ([https://youtu.be/neoMKvIZVyU](https://youtu.be/cOQA2Yk3kFM)).
+
 ## Screenshots
 
 ![Tela Inicial](./assets/img_1.jpeg)
